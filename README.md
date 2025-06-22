@@ -10,7 +10,8 @@ This repository is a public-facing statement confirming authorship and copyright
 - It powers over 100 financial institutions across the United States.
 - This system is the technical foundation for the platform marketed by BankSITE® Services as *BankSITE® Builder Pro*.
 
-> *BankSITE® is a registered trademark of BankSITE® Services and is referenced here for descriptive and historical purposes only. No affiliation or endorsement is implied.*
+> *BankSITE® is a registered trademark of The Forms Group, Inc.
+It is referenced here strictly for descriptive and historical purposes. No affiliation with or endorsement by The Forms Group, Inc. or BankSITE® Services is implied.*
 
 ---
 
