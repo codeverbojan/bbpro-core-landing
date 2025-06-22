@@ -6,7 +6,7 @@ This repository is a public-facing statement confirming authorship and copyright
 
 ## 🛠️ Authorship & Origin
 
-- **BBPro Core Framework** was developed and maintained solely by **Bojan Josifoski** from 2007–2025.
+- **BBPro Core Framework** was developed and maintained solely by **Bojan Josifoski** from 2022–2025.
 - It powers over 100 financial institutions across the United States.
 - This system is the technical foundation for the platform marketed by BankSITE® Services as *BankSITE® Builder Pro*.
 
