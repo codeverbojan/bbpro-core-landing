@@ -8,7 +8,7 @@ title: BBPro Core Framework – Copyright & Authorship
 
 ---
 
-For 16 years, I worked with the company that marketed the BankSITE® brand. In 2022, I began building BBPro — a proprietary WordPress-based platform that now powers over 100 U.S. bank websites.
+For 16 years, I worked with the company that marketed the BankSITE® brand. In 2022, I began building BBPro — a proprietary WordPress-based platform that now powers over 100 U.S. bank websites and credit union websites.
 
 I developed the BBPro Core Framework entirely myself: architecture, updates, deployment, and support.
 
@@ -23,6 +23,9 @@ There was never a written license, employment agreement, or copyright assignment
 - BBPro Core is protected under U.S. copyright.
 - No rights have been assigned to any third party.
 - Use without written license is unauthorized.
+
+✍️ **Medium**: [The BBPro Framework – The Platform Behind 100+ U.S. Banks](https://medium.com/@bojan.josifoski/the-bbpro-framework-the-platform-behind-100-u-s-banks-f2879dedf0f4)  
+💻 **Dev.to**: [The BBPro Framework – The Platform Behind 100+ U.S. Banks](https://dev.to/bojan_josifoski_76e9fd65d/the-bbpro-framework-the-platform-behind-100-us-banks-265o)
 
 ---
 
