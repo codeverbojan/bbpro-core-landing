@@ -21,6 +21,10 @@ It is referenced here strictly for descriptive and historical purposes. No affil
 - **U.S. Copyright Registration**: Case #1-14944175091  
 - **Code Repository**: Maintained privately under `bbpro-core-framework`
 
+✍️ **Medium**: [The BBPro Framework – The Platform Behind 100+ U.S. Banks](https://medium.com/@bojan.josifoski/the-bbpro-framework-the-platform-behind-100-u-s-banks-f2879dedf0f4)  
+💻 **Dev.to**: [The BBPro Framework – The Platform Behind 100+ U.S. Banks](https://dev.to/bojan_josifoski_76e9fd65d/the-bbpro-framework-the-platform-behind-100-us-banks-265o) 
+
+
 No license, assignment, or transfer of IP rights has ever been signed or executed with BankSITE® Services or its affiliates.
 
 ---
