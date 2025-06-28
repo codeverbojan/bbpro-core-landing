@@ -6,6 +6,14 @@ title: BBPro Core Framework – Copyright & Authorship
 **Sole Author & Developer:** Bojan Josifoski  
 **U.S. Copyright Case #:** 1-14944175091  
 
+
+## 🔍 BBPro Version Checker
+
+Check if your website is running the latest supported version of BBPro:
+
+👉 [bbpro.dev](https://bbpro.dev/)  
+📌 For banks, agencies, and compliance teams
+
 ---
 
 For 16 years, I worked with the company that marketed the BankSITE® brand. In 2022, I began building BBPro — a proprietary WordPress-based platform that now powers over 100 U.S. bank websites and credit union websites.
