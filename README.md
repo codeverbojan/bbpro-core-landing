@@ -2,6 +2,13 @@
 
 This repository is a public-facing statement confirming authorship and copyright ownership of the software framework commonly known as **BBPro**, used in the commercial product *BankSITE® Builder Pro*.
 
+## 🔍 BBPro Version Checker
+
+Check if your website is running the latest supported version of BBPro:
+
+👉 [bbpro.dev](https://bbpro.dev/)  
+📌 For banks, agencies, and compliance teams
+
 ---
 
 ## 🛠️ Authorship & Origin
